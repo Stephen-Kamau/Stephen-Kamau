@@ -1,12 +1,6 @@
 
-<!--
-**Stephen-Kamau/Stephen-Kamau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
--- >
-
 ### Hi there 👋 visitor number ![Visitor Count](https://profile-counter.glitch.me/Stephen-Kamau/count.svg)
-- 😄 Pronouns: Mr.
+- 😄 Pronouns: Mr.✨
 - 🔰  Machine Learning Engineer 
 - 🤖 Chairman CIT Club MMU
 - 🔭 I’m currently working on Computer Vision-Deep Learning interference  and NLP application models. 
