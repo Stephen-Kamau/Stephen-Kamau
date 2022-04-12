@@ -11,9 +11,9 @@
 - 🛄 Proficient in Python-Machine Learning-Deep Learning-Tensorflow & Backend (Django, Core PHP and FLASK) 
 - 🤔 I’m looking for help with cloud computing, and all about Open Source. 🖥
 - ⚡ Fun fact: I'm an Introvert
-- 📫 Reach out @stiveckamash@gmail.com ♾ 
+- 📫 Reach out @stiveckamash@gmail.com ♾ <br><br>
 
-- Some Cools Project done Include:
+### Some Cools Project done Include:
 - 🔰 [Comparison Of Unsupervised Machine Learning techniques ](https://github.com/Stephen-Kamau/Unsupervised_learning_algorithm_comparisons).
 - 🔰 [Covid Tracker Dashboard](https://github.com/Stephen-Kamau/covid19_dash_app) - [Live link](http://covidtracker2021.herokuapp.com/).
 - 🔰 [Email Processing](https://github.com/Stephen-Kamau/Email_processing-and-cleaning).
