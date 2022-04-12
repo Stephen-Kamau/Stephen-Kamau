@@ -12,7 +12,15 @@
 - 🤔 I’m looking for help with cloud computing, and all about Open Source. 🖥
 - ⚡ Fun fact: I'm an Introvert
 - 📫 Reach out @stiveckamash@gmail.com ♾ 
-     
+
+- Some Cools Project done Include:
+-![Comparison Of Unsupervised Machine Learning techniques ](https://github.com/Stephen-Kamau/Unsupervised_learning_algorithm_comparisons)
+-![Covid Tracker Dashboard](https://github.com/Stephen-Kamau/covid19_dash_app) - [Live link](http://covidtracker2021.herokuapp.com/)
+-![Email Processing](https://github.com/Stephen-Kamau/Email_processing-and-cleaning)
+-![RIdge Regression from Scratch Comparison with Some models](https://github.com/Stephen-Kamau/Ridge_regression_From_scratch_comparison_with_other)
+-![Covid Analysis](https://github.com/Stephen-Kamau/Covid19_Analysis)
+ and many more on the Repos..
+
  ![Steve's github stats](https://github-readme-stats.vercel.app/api?username=Stephen-Kamau&show_icons=true&theme=radical)
  
  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen-Kamau&layout=compact)](https://github.com/Stephen-Kamau/github-readme-stats)
