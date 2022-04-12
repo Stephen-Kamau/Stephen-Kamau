@@ -14,12 +14,12 @@
 - 📫 Reach out @stiveckamash@gmail.com ♾ 
 
 - Some Cools Project done Include:
-- 🔰 ![Comparison Of Unsupervised Machine Learning techniques ](https://github.com/Stephen-Kamau/Unsupervised_learning_algorithm_comparisons).
-- 🔰 ![Covid Tracker Dashboard](https://github.com/Stephen-Kamau/covid19_dash_app) - [Live link](http://covidtracker2021.herokuapp.com/).
-- 🔰 ![Email Processing](https://github.com/Stephen-Kamau/Email_processing-and-cleaning).
-- 🔰 ![RIdge Regression from Scratch Comparison with Some models](https://github.com/Stephen-Kamau/Ridge_regression_From_scratch_comparison_with_other).
-- 🔰 ![Covid Analysis](https://github.com/Stephen-Kamau/Covid19_Analysis).\n
-  and many more on the Repos..
+- 🔰 [Comparison Of Unsupervised Machine Learning techniques ](https://github.com/Stephen-Kamau/Unsupervised_learning_algorithm_comparisons).
+- 🔰 [Covid Tracker Dashboard](https://github.com/Stephen-Kamau/covid19_dash_app) - [Live link](http://covidtracker2021.herokuapp.com/).
+- 🔰 [Email Processing](https://github.com/Stephen-Kamau/Email_processing-and-cleaning).
+- 🔰 [RIdge Regression from Scratch Comparison with Some models](https://github.com/Stephen-Kamau/Ridge_regression_From_scratch_comparison_with_other).
+- 🔰 [Covid Analysis](https://github.com/Stephen-Kamau/Covid19_Analysis).<br><br><br><br>
+  and many more on the Repos..<br><br>
 
  ![Steve's github stats](https://github-readme-stats.vercel.app/api?username=Stephen-Kamau&show_icons=true&theme=radical)
  
