@@ -5,7 +5,7 @@
 - 🤖 Ex Chairman CIT Club MMU
 - 🔭 I’m currently working on Computer Vision-Deep Learning interference  and NLP application models. 
 - 🌱 I’m currently learning Web development, AR/VR, and Artificial Intelligence.
-- 💬 Ask me about Data science and NLP stuffs
+- 💬 Ask me about Data science, Computer Vision and NLP stuffs
 - 💨 Check out my web  https://www.linkedin.com/in/stiveckamash
 - 👯 I’m looking to collaborate on Machine Learning/Deep Learning, NLP and Computer vision projects; research-work and publication. 💻
 - 🛄 Proficient in Python-Machine Learning-Deep Learning-Tensorflow & Backend (Django, Core PHP and FLASK) 
