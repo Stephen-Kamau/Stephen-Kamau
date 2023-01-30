@@ -24,7 +24,7 @@
 
 ## Tools and Technologies
 
-<code><img height="50" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img height="50" style="margin-left:5px; " src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/djangoproject/djangoproject-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
 <code><img height="50" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"></code>
