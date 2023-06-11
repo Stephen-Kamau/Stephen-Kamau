@@ -40,9 +40,13 @@
 <code><img height='50' src='https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg'></code>
 <br><br>
 
- ![Steve's github stats](https://github-readme-stats.vercel.app/api?username=Stephen-Kamau&show_icons=true&theme=radical)
+<!--  ![Steve's github stats](https://github-readme-stats.vercel.app/api?username=Stephen-Kamau&show_icons=true&theme=radical)
  
- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen-Kamau&layout=compact)](https://github.com/Stephen-Kamau/github-readme-stats)
+ [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen-Kamau&layout=compact)](https://github.com/Stephen-Kamau/github-readme-stats) -->
+ 
+ [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ClaudWatari95&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudWatari95&langs_count=5&theme=tokyonight)]()
+
 
 <br><br>
 # 📫 How to reach me: 
