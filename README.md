@@ -44,11 +44,10 @@
  
  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen-Kamau&layout=compact)](https://github.com/Stephen-Kamau/github-readme-stats) -->
  
- [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=ClaudWatari95&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ClaudWatari95&langs_count=5&theme=tokyonight)]()
+ [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Stephen-Kamau&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen-Kamau&langs_count=5&theme=tokyonight)]()
 
-
-<br><br>
+<br>
 # 📫 How to reach me: 
 
 [gmail](stiveckamash@gmail.com)
