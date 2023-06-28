@@ -2,7 +2,7 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> visitor number ![Visitor Count](https://profile-counter.glitch.me/Stephen-Kamau/count.svg)
 - 😄 Pronouns: Mr.✨
 - 🔰  Machine Learning Engineer 
-- 🤖 Ex Chairman CIT Club MMU|| GDSC Lead MMU
+- 🤖 Ex Chairman CIT Club MMU || GDSC Lead MMU
 - 🔭 I’m currently working on Computer Vision-Deep Learning interference  and NLP application models. 
 - 🌱 I’m currently learning Web development, AR/VR, and Artificial Intelligence.
 - 💬 Ask me about Data Science, Computer Vision, and NLP staffs
