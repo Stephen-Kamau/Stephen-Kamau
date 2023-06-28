@@ -2,14 +2,14 @@
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> visitor number ![Visitor Count](https://profile-counter.glitch.me/Stephen-Kamau/count.svg)
 - 😄 Pronouns: Mr.✨
 - 🔰  Machine Learning Engineer 
-- 🤖 Ex Chairman CIT Club MMU
+- 🤖 Ex Chairman CIT Club MMU|| GDSC Lead MMU
 - 🔭 I’m currently working on Computer Vision-Deep Learning interference  and NLP application models. 
 - 🌱 I’m currently learning Web development, AR/VR, and Artificial Intelligence.
-- 💬 Ask me about Data science, Computer Vision and NLP stuffs
+- 💬 Ask me about Data Science, Computer Vision, and NLP staffs
 - 💨 Check out my web  https://www.linkedin.com/in/stiveckamash
-- 👯 I’m looking to collaborate on Machine Learning/Deep Learning, NLP and Computer vision projects; research-work and publication. 💻
+- 👯 I’m looking to collaborate on Machine Learning/Deep Learning, NLP and Computer vision projects; research work and publication. 💻
 - 🛄 Proficient in Python-Machine Learning-Deep Learning-Tensorflow & Backend (Django, FastApi, Core PHP and FLASK) 
-- 🤔 I’m looking for help with cloud computing, Devops and all about Open Source. 🖥
+- 🤔 I’m looking for help with cloud computing, DevOps, and all about Open Source. 🖥
 - ⚡ Fun fact: I'm an Introvert
 - 📫 Reach out @stiveckamash@gmail.com ♾ <br><br>
 
