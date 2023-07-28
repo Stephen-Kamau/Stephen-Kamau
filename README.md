@@ -1,5 +1,5 @@
 
-# Hi 👋, I'm Stephen Kamau
+# Hi 👋, I'm Stephen Kamau  ![Viewers](https://komarev.com/ghpvc/?username=Stephen-Kamau&style=for-the-badge)
 
 ## 👨🏻‍💻 About Me
 - 😄 Pronouns: Mr.✨
