@@ -63,9 +63,9 @@
 
 <p align="center">
   <a href="mailto:stiveckamash@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a> &nbsp
-  <a href="https://www.linkedin.com/in/stiveckamash" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a> &nbsp
-  <a href="https://twitter.com/kamashstivec" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kamashstivec" /></a>&nbsp
+   <a href="https://twitter.com/kamashstivec" target="_blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kamashstivec" /></a>&nbsp
 <a href="https://medium.com/@stiveckamash" target="_blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@stiveckamash"  /></a>&nbsp
+  <a href="https://www.linkedin.com/in/stiveckamash" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a> &nbsp
   
 </p>
 
