@@ -61,8 +61,7 @@
 - 🔰 [Covid Tracker Dashboard](https://github.com/Stephen-Kamau/covid19_dash_app) - [Live link](http://covidtracker2021.herokuapp.com/).
 - 🔰 [Email Processing](https://github.com/Stephen-Kamau/Email_processing-and-cleaning).
 - 🔰 [RIdge Regression from Scratch Comparison with Some models](https://github.com/Stephen-Kamau/Ridge_regression_From_scratch_comparison_with_other).
-- 🔰 [Covid Analysis](https://github.com/Stephen-Kamau/Covid19_Analysis).<br><br><br><br>
-  and many more on the Repos..<br><br>
+- 🔰 [Covid Analysis](https://github.com/Stephen-Kamau/Covid19_Analysis).<br><br>
 
 
 ## 🤝🏻 &nbsp;Connect with Me
@@ -70,8 +69,8 @@
 <p align="center">
   <a href="mailto:stiveckamash@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-2db400?style=for-the-badge&logo=Naver&logoColor=white"/></a> &nbsp
   <a href="https://www.linkedin.com/in/stiveckamash" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a> &nbsp
-  <a href="https://twitter.com/kamashstivec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kamashstivec" height="30" width="40" /></a>
-<a href="https://medium.com/@stiveckamash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@stiveckamash" height="30" width="40" /></a>
+  <a href="https://twitter.com/kamashstivec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="kamashstivec" height="30" width="40" /></a>
+<a href="https://medium.com/@stiveckamash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="@stiveckamash" height="30" width="40" /></a>
   
 </p>
 
