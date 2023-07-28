@@ -64,8 +64,8 @@
 <p align="center">
   <a href="mailto:stiveckamash@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Mail-2db400?style=for-the-badge&logo=Naver&logoColor=white"/></a> &nbsp
   <a href="https://www.linkedin.com/in/stiveckamash" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white"/></a> &nbsp
-  <a href="https://twitter.com/kamashstivec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="kamashstivec" height="30" width="40" /></a>
-<a href="https://medium.com/@stiveckamash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white" alt="@stiveckamash" height="30" width="40" /></a>
+  <a href="https://twitter.com/kamashstivec" target="blank"><img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="kamashstivec" height="30" width="40" /></a>
+<a href="https://medium.com/@stiveckamash" target="blank"><img align="center" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="@stiveckamash" height="30" width="40" /></a>
   
 </p>
 
