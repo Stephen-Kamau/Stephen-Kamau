@@ -40,10 +40,12 @@
 
 ## ⚙️ GitHub Analytics
 
+
 <p align="center">
-  <a href="https://github.com/KhaledAbuNada-AI">
+  <a href="https://github.com/Stephen-Kamau">
     <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Stephen-Kamau&show_icons=true&theme=dark&count_private=true&include_all_commits=true&locale=en" alt="Stephen" align="center"/>
     <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Stephen-Kamau&theme=dark" alt="Stephen" align="center"/>
+   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen-Kamau&langs_count=5&theme=tokyonight" alt="Stephen" align="center"/>
   </a>
 </p>
 
@@ -88,7 +90,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<--
+<!--
 ### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px"> visitor number ![Visitor Count](https://profile-counter.glitch.me/Stephen-Kamau/count.svg)
 - 😄 Pronouns: Mr.✨
 - 🔰  Machine Learning Engineer 
