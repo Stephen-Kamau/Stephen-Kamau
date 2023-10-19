@@ -6,9 +6,9 @@
 - 🔰 I'm AI Engineer|| Backend Engineer (Computer Vision and NLP).
 -  🤖 Just give me a call/email, whatever you want!
 - 👯 I’m looking to collaborate on Machine Learning/Deep Learning, NLP, and Computer vision projects; research work, and publication. 💻
-- 🛄 Proficient in Python-Machine Learning-Deep Learning-Tensorflow & Backend (Django, FastApi, Core PHP and FLASK) 
+- 🛄 Proficient in Python-Machine Learning-Deep Learning-Tensorflow & Backend (Java and Java Spring, Django, FastApi, Core PHP and FLASK) 
 - 🤔 I’m looking for help with cloud computing, DevOps, and all about Open Source. 🖥
-- ⚡ Fun fact: I'm an Introvert
+- ⚡ Fun fact: I'm a relatively Introvert
 
  
 ## 🛠 Tech Stack
