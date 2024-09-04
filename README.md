@@ -64,6 +64,8 @@
 - 🔰 [RIdge Regression from Scratch Comparison with Some models](https://github.com/Stephen-Kamau/Ridge_regression_From_scratch_comparison_with_other).
 - 🔰 [Covid Analysis](https://github.com/Stephen-Kamau/Covid19_Analysis).<br><br>
 
+- More of these projects are documented here :   https://github.com/Stephen-Kamau/Machine-Learning-Based-Projects
+
 
 ## 🤝🏻 &nbsp;Connect with Me
 
